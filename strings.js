@@ -17,3 +17,4 @@ console.log("hello\n\'world\'");
 console.log("hello\\\nworld");
 console.log("\\hello\\\n\'world\'");
 console.log("hello\rworld");
+conso
